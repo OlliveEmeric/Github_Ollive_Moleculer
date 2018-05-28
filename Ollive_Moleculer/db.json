@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id_user": "9670eb09-fb93-4233-8ff3-e37f70e8cc55",
+      "email": "e-mail",
+      "prenom": "nom",
+      "nom": "nom"
+    },
+    {
+      "id_user": "9950ab30-caa1-4416-bb7f-c1931e1a286a",
+      "email": "mail",
+      "prenom": "nm",
+      "nom": "noim"
+    },
+    {
+      "id_user": "ce134544-5989-4ab9-8d66-afaeb8dd5c26",
+      "email": "test",
+      "prenom": "jean",
+      "nom": "michel"
+    }
+  ],
+  "messages": [],
+}
